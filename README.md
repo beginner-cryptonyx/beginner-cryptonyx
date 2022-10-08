@@ -1,5 +1,6 @@
-### Hi there 👋
+# Crypto's GitHub Page 👋
 
+**I am someone who is enthusiastic about software development and web development**
 <!--
 **beginner-cryptonyx/beginner-cryptonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
