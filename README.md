@@ -2,7 +2,7 @@
 
 ---
 
-**GitHub**
+**I like to create and program with python, I am enthusiastic about software, and web, development.**
 
 ---
 
@@ -10,7 +10,7 @@
 
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px"/>
 
-<img align="left" alt="flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px"/>
+<img align="left" alt="flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px"/>
 
 <img align="left" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px"/>
 
@@ -19,6 +19,10 @@
 <img align="left" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px"/>
 
 <img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px"/>
+
+
+#
+
 
 ### Ide's
 
