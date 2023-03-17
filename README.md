@@ -32,6 +32,8 @@
 
 </div>
 
-
+<br/>
+<br/>
 <br/>
 
+[![Crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-cryptonyx)](https://github.com/beginner-cryptonyx/github-readme-stats)
