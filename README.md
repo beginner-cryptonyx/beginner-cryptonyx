@@ -2,7 +2,7 @@
 
 ---
 
-**I Program as a hobby. I make frontend websites and sometime mingle into backend**
+**I Program as a hobby.**
 
 ---
 
