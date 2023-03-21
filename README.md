@@ -8,26 +8,33 @@
 
 ### Tool I Use
 
-<div align="right" style="display:flex; justtify-content:baseline; margin-left:auto">
-<img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; margin-top: 6px"/>
+<div style="display:grid; grid-template-columns: repeat(3, 1fr)">
 
-<img align="left" alt="flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px; filter: invert(100%)"/>
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green)
 
-<img align="left" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px"/>
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
-<img align="left" alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px"/>
+![VSCODE](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)
 
-<img align="left" alt="bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px"/>
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
 
-<img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px"/>
+![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue)
 
-<img align="left" alt="GIT" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px"/>
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px; filter: invert(100%)"/>
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 
-<img align="left" alt="VS code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px"/>
 
-<img align="left" alt="Markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px; filter: invert(100%)"/>
+![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+
+![git](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=git)
+
+![md](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
+
+![stackoverflow](https://img.shields.io/badge/stack_overflow-black?style=for-the-badge&logo=stackoverflow)
+
+
+![windows_10](https://img.shields.io/badge/windows_10-black?style=for-the-badge&logo=windows&logoColor=blue)
 
 
 </div>
