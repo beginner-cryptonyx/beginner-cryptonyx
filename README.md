@@ -1,5 +1,7 @@
 # Hi There, I am crypto 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 ```yaml
 Skills:
@@ -66,6 +68,7 @@ Hobbies:
 ![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=git)
 ![stackoverflow](https://img.shields.io/badge/stack_overflow-black?style=for-the-badge&logo=stackoverflow)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 </div>
 <br/>
@@ -107,5 +110,8 @@ Hobbies:
 </div>
 <br/><br/>
 
+<p align="middle">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ---
