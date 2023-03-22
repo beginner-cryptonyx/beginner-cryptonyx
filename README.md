@@ -1,6 +1,47 @@
 # Hi There, I am crypto 👋
 
-**I Program as a hobby. I am Experianced in Frontend Design, _UI_,and Working Towards Learning _UIX_ by Learning Popular Javascript Frameworks Like _Svelte_, _React_ and _ThreeJS_. Also Trying to Fiddle Around with Backend, I know To Use Flask With Python and Want to LEarn NodeJS. Some of my side Endavours are Working with AI in Python-Spacy and Scikit-learn.**
+
+```yaml
+Skills:
+    [
+        "Web Development",
+        "UI/UX",
+    ]
+
+Languages Learnt: 
+    [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Markdown"
+    ]
+
+Learning: 
+    [
+        "Docker",
+        "Svelte",
+        "Mechine Learning",
+    ]
+
+Tech Hitlist:
+    [
+        "NodeJS",
+        "Three-JS",
+        "Scikit-Learn",
+        "React",
+        "Flutter",
+        "MongoDB",
+        "Firebase",
+    ]
+
+Hobbies:
+    [
+        "Gaming",
+        "Cubing",
+        "Football",
+    ]
+```
 
 ---
 
@@ -47,7 +88,14 @@
 <br/><br/>
 <div align="middle">
 
-[![Crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-cryptonyx)](https://github.com/beginner-cryptonyx/github-readme-stats)
+
+
+[![Crypto's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner-cryptonyx&theme=radical)](https://github.com/beginner-cryptonyx/github-readme-stats)
+
+<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginner-cryptonyx&layout=compact)](https://github.com/beginner-cryptonyx/github-readme-stats)
 
 </div>
 <br/>
@@ -58,5 +106,6 @@
 
 </div>
 <br/><br/>
+
 
 ---
