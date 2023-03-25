@@ -24,6 +24,9 @@ Languages Learnt:
 
 Learning: 
     [
+        "React",
+        "NodeJS",
+        "Next JS"
         "Docker",
         "Svelte",
         "Machine Learning",
@@ -31,10 +34,8 @@ Learning:
 
 Tech Hit-list:
     [
-        "NodeJS",
         "Three-JS",
         "Scikit-Learn",
-        "React",
         "Flutter",
         "MongoDB",
         "Firebase",
@@ -45,6 +46,11 @@ Hobbies:
         "Gaming",
         "Cubing",
         "Football",
+    ]
+
+Talents:
+    [
+        Error: expected type 'str' got 'null' instead
     ]
 ```
 
@@ -97,6 +103,7 @@ Hobbies:
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![NextJS](https://img.shields.io/badge/next_JS-black?style=for-the-badge&logo=Next.js)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 </div>
 
 <br/>
